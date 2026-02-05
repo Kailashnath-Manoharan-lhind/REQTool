@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "backend",
+			"name": "Backend (Node.js/Express)"
+		},
+		{
+			"path": "frontend",
+			"name": "Frontend (React)"
+		}
+	],
+	"settings": {
+		"python.linting.enabled": false,
+		"[javascript]": {
+			"editor.defaultFormatter": "esbenp.prettier-vscode"
+		},
+		"[json]": {
+			"editor.defaultFormatter": "esbenp.prettier-vscode"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"esbenp.prettier-vscode",
+			"dbaeumer.vscode-eslint",
+			"ms-vscode.es7-string-html"
+		]
+	}
+}
